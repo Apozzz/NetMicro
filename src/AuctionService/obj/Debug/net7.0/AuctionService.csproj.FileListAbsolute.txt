@@ -83,3 +83,14 @@ C:\dev\csharp\NetMicro\NetMicro\src\AuctionService\obj\Debug\net7.0\refint\Aucti
 C:\dev\csharp\NetMicro\NetMicro\src\AuctionService\obj\Debug\net7.0\AuctionService.pdb
 C:\dev\csharp\NetMicro\NetMicro\src\AuctionService\obj\Debug\net7.0\AuctionService.genruntimeconfig.cache
 C:\dev\csharp\NetMicro\NetMicro\src\AuctionService\obj\Debug\net7.0\ref\AuctionService.dll
+C:\dev\csharp\NetMicro\NetMicro\src\AuctionService\bin\Debug\net7.0\MassTransit.dll
+C:\dev\csharp\NetMicro\NetMicro\src\AuctionService\bin\Debug\net7.0\MassTransit.Abstractions.dll
+C:\dev\csharp\NetMicro\NetMicro\src\AuctionService\bin\Debug\net7.0\MassTransit.RabbitMqTransport.dll
+C:\dev\csharp\NetMicro\NetMicro\src\AuctionService\bin\Debug\net7.0\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\dev\csharp\NetMicro\NetMicro\src\AuctionService\bin\Debug\net7.0\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\dev\csharp\NetMicro\NetMicro\src\AuctionService\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\dev\csharp\NetMicro\NetMicro\src\AuctionService\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\dev\csharp\NetMicro\NetMicro\src\AuctionService\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\dev\csharp\NetMicro\NetMicro\src\AuctionService\bin\Debug\net7.0\Contracts.dll
+C:\dev\csharp\NetMicro\NetMicro\src\AuctionService\bin\Debug\net7.0\Contracts.pdb
+C:\dev\csharp\NetMicro\NetMicro\src\AuctionService\bin\Debug\net7.0\MassTransit.EntityFrameworkCoreIntegration.dll
