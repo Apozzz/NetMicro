@@ -94,3 +94,10 @@ C:\dev\csharp\NetMicro\NetMicro\src\AuctionService\bin\Debug\net7.0\RabbitMQ.Cli
 C:\dev\csharp\NetMicro\NetMicro\src\AuctionService\bin\Debug\net7.0\Contracts.dll
 C:\dev\csharp\NetMicro\NetMicro\src\AuctionService\bin\Debug\net7.0\Contracts.pdb
 C:\dev\csharp\NetMicro\NetMicro\src\AuctionService\bin\Debug\net7.0\MassTransit.EntityFrameworkCoreIntegration.dll
+C:\dev\csharp\NetMicro\NetMicro\src\AuctionService\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\dev\csharp\NetMicro\NetMicro\src\AuctionService\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\dev\csharp\NetMicro\NetMicro\src\AuctionService\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\dev\csharp\NetMicro\NetMicro\src\AuctionService\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\dev\csharp\NetMicro\NetMicro\src\AuctionService\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\dev\csharp\NetMicro\NetMicro\src\AuctionService\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\dev\csharp\NetMicro\NetMicro\src\AuctionService\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
