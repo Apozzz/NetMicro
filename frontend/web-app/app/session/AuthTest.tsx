@@ -11,7 +11,9 @@ export default function AuthTest() {
     function doUpdate() {
         setResult(undefined);
         setLoading(true);
-        updateAuctionTest().then(res => setResult(res)).finally(() => setLoading(false))
+        updateAuctionTest()
+            .then(res => setResult(res))
+            .finally(() => setLoading(false))
     }
 
     return (
