@@ -101,3 +101,10 @@ C:\dev\csharp\NetMicro\NetMicro\src\AuctionService\bin\Debug\net7.0\Microsoft.Id
 C:\dev\csharp\NetMicro\NetMicro\src\AuctionService\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\dev\csharp\NetMicro\NetMicro\src\AuctionService\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
 C:\dev\csharp\NetMicro\NetMicro\src\AuctionService\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\dev\csharp\NetMicro\NetMicro\src\AuctionService\bin\Debug\net7.0\Google.Protobuf.dll
+C:\dev\csharp\NetMicro\NetMicro\src\AuctionService\bin\Debug\net7.0\Grpc.AspNetCore.Server.dll
+C:\dev\csharp\NetMicro\NetMicro\src\AuctionService\bin\Debug\net7.0\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\dev\csharp\NetMicro\NetMicro\src\AuctionService\bin\Debug\net7.0\Grpc.Core.Api.dll
+C:\dev\csharp\NetMicro\NetMicro\src\AuctionService\bin\Debug\net7.0\Grpc.Net.Client.dll
+C:\dev\csharp\NetMicro\NetMicro\src\AuctionService\bin\Debug\net7.0\Grpc.Net.ClientFactory.dll
+C:\dev\csharp\NetMicro\NetMicro\src\AuctionService\bin\Debug\net7.0\Grpc.Net.Common.dll

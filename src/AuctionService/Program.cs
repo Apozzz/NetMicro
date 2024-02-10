@@ -1,3 +1,4 @@
+using AuctionService;
 using AuctionService.Consumers;
 using AuctionService.Data;
 using MassTransit;
@@ -23,6 +24,8 @@ builder.Services.AddMassTransit(x =>
         o.UseBusOutbox();
     });
     x.AddConsumersFromNamespaceContaining<AuctionCreatedFaultConsumer>();
+    x.AddConsumersFromNamespaceContaining<BidPlacedConsumer>();
+    x.AddConsumersFromNamespaceContaining<AuctionFinishedConsumer>();
     x.SetEndpointNameFormatter(new KebabCaseEndpointNameFormatter("auction", false));
     x.UsingRabbitMq((context, cfg) =>
     {
@@ -43,11 +46,14 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
         options.TokenValidationParameters.NameClaimType = "username";
     });
 
+builder.Services.AddGrpc();
+
 var app = builder.Build();
 
 app.UseAuthentication();
 app.UseAuthorization();
 app.MapControllers();
+app.MapGrpcService<GrpcAuctionService>();
 
 try
 {
